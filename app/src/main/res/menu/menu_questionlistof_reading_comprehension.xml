@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_create"
+        android:orderInCategory="103"
+        android:title="@string/action_settings"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_create_white_24dp" />
+
+
+</menu>
